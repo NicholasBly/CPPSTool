@@ -1,0 +1,9 @@
+d:\users\nicholas\documents\visual studio 2013\Projects\CPPS Unlocker\CPPS Unlocker\bin\Debug\CPPS Unlocker.exe.config
+d:\users\nicholas\documents\visual studio 2013\Projects\CPPS Unlocker\CPPS Unlocker\bin\Debug\CPPS Unlocker.exe
+d:\users\nicholas\documents\visual studio 2013\Projects\CPPS Unlocker\CPPS Unlocker\bin\Debug\CPPS Unlocker.pdb
+d:\users\nicholas\documents\visual studio 2013\Projects\CPPS Unlocker\CPPS Unlocker\obj\Debug\CPPS_Unlocker.Form1.resources
+d:\users\nicholas\documents\visual studio 2013\Projects\CPPS Unlocker\CPPS Unlocker\obj\Debug\CPPS_Unlocker.Properties.Resources.resources
+d:\users\nicholas\documents\visual studio 2013\Projects\CPPS Unlocker\CPPS Unlocker\obj\Debug\CPPS Unlocker.csproj.GenerateResource.Cache
+d:\users\nicholas\documents\visual studio 2013\Projects\CPPS Unlocker\CPPS Unlocker\obj\Debug\CPPS Unlocker.exe
+d:\users\nicholas\documents\visual studio 2013\Projects\CPPS Unlocker\CPPS Unlocker\obj\Debug\CPPS Unlocker.pdb
+D:\Users\Nicholas\Documents\Visual Studio 2013\Projects\CPPS Unlocker\CPPS Unlocker\obj\Debug\CPPS Unlocker.csprojResolveAssemblyReference.cache
